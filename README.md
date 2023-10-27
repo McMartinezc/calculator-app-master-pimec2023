@@ -10,6 +10,11 @@ Os adjunto la demo para que veaís fácilmente como funciona la app. No inspecci
 3. Fíjate en los atributos data-\* de cada tecla. Te pueden ayudar a determinar fácilmente que botón ha pulsado el usuario
 4. Piensa en como asociar un evento a cada tecla aprovechando la propagación de envetos, o bien asociar un evento a cada button usado querySelectorAll
 5. Para calcular el resultado de la operación, piensa en [esta función](https://www.w3schools.com/jsref/jsref_eval.asp)
-6. Puedes usar alguna variable de estado que puede hacer más fáil la implementación de la app, aunque puede que no sea imprescindible
+6. Puedes usar alguna variable de estado que puede hacer más fácil la implementación de la app, aunque puede que no sea imprescindible
 
 ## Pregunta 1: Describe con lenguaje natural que tiene que hacer la app.
+
+Cuando el usuario seleccione cualquier número y operación, deberá mostrar el resultado de la operación una vez clicado el = .
+Botón Reset-> Limpie el display
+Del-> Borrar el último número introducido
+. -> Convertirá el número entera a decimal.
